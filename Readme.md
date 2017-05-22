@@ -4,3 +4,4 @@
 [MAN-2]
 [DEV-1]
 [DEV-2]
+[DEVOPS-1]
