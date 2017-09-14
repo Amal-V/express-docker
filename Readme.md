@@ -1,14 +1,2 @@
-#### Steps to install
-
-[MAN-1]
-[MAN-2]
-[DEV-1]
-[DEV-2]
-[DEVOPS-1]
-[DEVOPS-2]
-[OPS-1]
-[OPS-2]
-[MAN-3]
-[MAN-4]
-
-
+```docker built -t express .```
+```docker run -dtp 3000:3000 express ```
